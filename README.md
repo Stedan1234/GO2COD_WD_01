@@ -1,2 +1,2 @@
-# GO2COD_WD_01
-To Do List web app
+# To Do List App
+To Do List web app with JS
